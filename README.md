@@ -1,8 +1,7 @@
 # Simple-Calculator
 ### Four Function Calculator
 
-This is my second reactjs project, the first being my mars-rover project for the Elite Program in Code2College. 
-This simple calculator is basically designed to do what any other four-function calculator app is supposed to. 
+The simple calculator is basically designed to do what any other four-function calculator app is supposed to. 
 
 #### Add, Subtract, Multiply, and Divide 
 
